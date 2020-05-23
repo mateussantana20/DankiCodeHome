@@ -3,6 +3,7 @@
 ### HTML CSS E JS
 #### Projeto feito com os conhecimentos adiquiridos no Curso Webmaster Front-End Completo da DankiCode
 ###### --Todos os direitos a DankiCode https://cursos.dankicode.com/home
+###### ---Objetivo => Práticar as habilidades adiquridas no curso
 
 
 
